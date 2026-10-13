@@ -121,3 +121,4 @@ in ⚙ when the server requires one.
 - Public: `https://warden-backend-wuym.onrender.com`,
   `https://warden-console.onrender.com`,
   `https://shopassist-api-z5wy.onrender.com`
+<img width="1904" height="1040" alt="image" src="https://github.com/user-attachments/assets/bb2e15bb-ca75-4f40-9b18-d8c03b6678b9" />
