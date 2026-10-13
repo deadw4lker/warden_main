@@ -12,6 +12,8 @@ and how to operate it.
 | 2 | `/home/deadw4lker/agento` | ShopAssist chatbot (brain + APIs) | `deadw4lker/shopassist-api` | ~1 MB |
 | 3 | `/home/deadw4lker/Downloads/CODEX-3.0-main` | WARDEN governance platform (engine + console) | `deadw4lker/warden_engine` | ~222 MB |
 
+and warden.zip is our OPA file.
+
 ## 2. How it fits together (live right now)
 
 ```
