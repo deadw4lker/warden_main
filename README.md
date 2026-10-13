@@ -122,3 +122,6 @@ in ⚙ when the server requires one.
   `https://warden-console.onrender.com`,
   `https://shopassist-api-z5wy.onrender.com`
 <img width="1904" height="1040" alt="image" src="https://github.com/user-attachments/assets/bb2e15bb-ca75-4f40-9b18-d8c03b6678b9" />
+
+<img width="1904" height="1040" alt="image" src="https://github.com/user-attachments/assets/34c0a220-3293-4698-be04-a12bd451643b" />
+
