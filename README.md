@@ -123,5 +123,6 @@ in ⚙ when the server requires one.
   `https://shopassist-api-z5wy.onrender.com`
 <img width="1904" height="1040" alt="image" src="https://github.com/user-attachments/assets/bb2e15bb-ca75-4f40-9b18-d8c03b6678b9" />
 
-<img width="1904" height="1040" alt="image" src="https://github.com/user-attachments/assets/34c0a220-3293-4698-be04-a12bd451643b" />
+<img width="720" height="1640" alt="WhatsApp Image 2026-10-13 at 8 50 59 AM(1)" src="https://github.com/user-attachments/assets/43a8d726-7509-4d58-a051-b0893bd2c195" />
+
 
